@@ -15,7 +15,7 @@ GitHub Initial Codeup Exercise
     
     
     
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qmcbt)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/johnrosenberger]))
 
 ## Skills
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -48,15 +48,6 @@ GitHub Initial Codeup Exercise
 
 
 ## Stats
-
-<table>
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=jcrosenberger&count_private=true&show_icons=true&include_all_commits=true&locale=en" alt="jcrosenberger" /></td>
-<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=jcrosenberger&" alt="jcrosenberger" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcrosenberger" alt="jcrosenberger" /></td>
-</tr>
-</table>
-
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jcrosenberger&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
 

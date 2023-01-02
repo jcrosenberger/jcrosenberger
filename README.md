@@ -1,16 +1,13 @@
-## Howdy! I'm a social scientist who is working on adding to his data science skillset with CodeUp's data science program
-
-- 💬 Ask me about  economics, sociology, or religion if you want a long-winded response regarding how we are doing it all wrong!
+### Hi there 👋
 
 
-
-
+Howdy! I'm a social scientist who is working on adding to his data science skillset with CodeUp's data science program.
 
 
     
     
     
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/johnrosenberger])
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qmcbt)
 
 ## Skills
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -44,8 +41,10 @@
 
 ## Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=jcrosenberger&count_public=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=jcrosenberger&theme=prussian&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcrosenberger&hide=TeX&layout=compact&theme=prussian)
+![John Rosenberger's Github Stats](https://github-readme-stats.vercel.app/api?username=jcrosenberger&count_private=true&show_icons=true&include_all_commits=true&theme=react)
+
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=jcrosenberger&theme=react)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcrosenberger&hide=TeX&layout=compact&theme=react)

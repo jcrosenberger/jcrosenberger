@@ -1,12 +1,7 @@
-### Hi there 👋
-
-
-Howdy! I'm a social scientist who is working on adding to his data science skillset with CodeUp's data science program
+## Howdy! I'm a social scientist who is working on adding to his data science skillset with CodeUp's data science program
 
 - 💬 Ask me about  economics, sociology, or religion if you want a long-winded response regarding how we are doing it all wrong!
 
-# Hello_World
-GitHub Initial Codeup Exercise
 
 
 
@@ -15,7 +10,7 @@ GitHub Initial Codeup Exercise
     
     
     
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/johnrosenberger]))
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/johnrosenberger])
 
 ## Skills
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)

@@ -41,8 +41,6 @@ Howdy! I'm a social scientist who is working on adding to his data science skill
 
 ## Stats
 
-
-
 ![John Rosenberger's Github Stats](https://github-readme-stats.vercel.app/api?username=jcrosenberger&count_private=true&show_icons=true&include_all_commits=true&theme=react)
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=jcrosenberger&theme=react)

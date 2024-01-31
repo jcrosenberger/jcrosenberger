@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Howdy! I'm a trained social scientist who uses data to figure out stuff. Sounds specific and brilliant. Right? Well, I use Github to keep track of projects and for self development with python primarily.
+Howdy! I'm a trained social scientist and data analyst who uses data to figure out stuff. Sounds specific and brilliant. Right? Well, I use Github to keep track of projects and for self development with python primarily.
 
 
     

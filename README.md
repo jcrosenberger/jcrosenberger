@@ -24,8 +24,7 @@ Howdy! I'm a trained social scientist and data analyst who uses data to figure o
 
 ###
 ![MySQL](https://img.shields.io/badge/-MySQL-white?style=for-the-badge&logo=mysql)
-![MSSQL](https://img.shields.io/badge/-MySQL-white?style=for-the-badge&logo=mssql)
-![Tableau](https://img.shields.io/badge/-MySQL-white?style=for-the-badge&logo=tableau)
+![MSSQL](https://img.shields.io/badge/-MSSQL-white?style=for-the-badge&logo=mssql)
 ![Canva](https://img.shields.io/badge/-Canva-black?style=for-the-badge&logo=Canva)
 
 

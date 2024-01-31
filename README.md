@@ -23,8 +23,7 @@ Howdy! I'm a trained social scientist and data analyst who uses data to figure o
 ![Seaborn](https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=Seaborn)
 
 ###
-![MySQL](https://img.shields.io/badge/-MySQL-white?style=for-the-badge&logo=mysql)
-![MSSQL](https://img.shields.io/badge/-MSSQL-white?style=for-the-badge&logo=mssql)
+[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-black?style=for-the-badge&logo=Canva)
 

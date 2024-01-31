@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Howdy! I'm a social scientist who is working on adding to his data science skillset with CodeUp's data science program.
+Howdy! I'm a trained social scientist who uses data to figure out stuff. Sounds specific and brilliant. Right? Well, I use Github to keep track of projects and for self development with python primarily.
 
 
     
